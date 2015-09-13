@@ -27,6 +27,7 @@ namespace Oxide.Plugins
     {
         // This is where your plugin will do its magic
         //test
+        // les test c'est pour les faibles
 		
     }
 }
