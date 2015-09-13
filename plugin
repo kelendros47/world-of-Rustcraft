@@ -26,7 +26,7 @@ namespace Oxide.Plugins
     public class PluginName : RustPlugin
     {
         // This is where your plugin will do its magic
-		
+	//test		
     }
 }
 
